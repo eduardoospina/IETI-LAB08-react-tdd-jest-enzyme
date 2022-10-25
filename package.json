@@ -56,10 +56,6 @@
     "husky": "^8.0.1",
     "jest": "^27.5.1",
     "prettier": "^2.7.1"
-  },
-  "jest": {
-    "setupFilesAfterEnv": [
-      "<rootDir>/setupTests.js"
-    ]
   }
+  
 }
