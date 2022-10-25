@@ -1,7 +1,7 @@
-#IETI-LAB08-react-tdd-jest-enzyme.
+# IETI-LAB08-react-tdd-jest-enzyme.
 
 
-##AUTOR.
+## AUTOR.
 
     - Eduardo Ospina Mejia
 
