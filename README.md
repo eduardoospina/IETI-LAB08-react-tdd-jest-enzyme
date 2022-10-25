@@ -19,7 +19,7 @@
 
     	Enzyme.configure({ adapter: new Adapter() });
 
-    3Configure jest so it knows where is the configuration file created in step 2 ( add the following value to your package.json ):
+    3. Configure jest so it knows where is the configuration file created in step 2 ( add the following value to your package.json ):
 
     	"jest": { 
     		"setupFilesAfterEnv": [ 
